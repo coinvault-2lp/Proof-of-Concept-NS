@@ -12,16 +12,24 @@ https://bitcoincore.org/en/releases/0.18.1/
 
 Download the appropriate archive for your platform, compile and install **bitcoind** and **bitcoin-cli** (Add install location to PATH if necessary)
 
+---------------------
+
 Clone **libbitcoin-explorer** repo, build and install as per instructions in their GitHub repo. (Add install location to PATH if necessary)
 https://github.com/libbitcoin/libbitcoin-explorer
 
 *Needed for signing P2SH transactions with Smart Contracts*
 
+---------------------
+
 Install **jq** - https://stedolan.github.io/jq/download/
 
 *Needed for interacting with JSON objects inside shell*
 
+---------------------
+
 Note: Please make sure that all the above tools are available in your PATH
+
+---------------------
 
 You can now run the **Shell Scripts** in this repo to simulate CoinVault setup and recovery. 
 
