@@ -3,7 +3,7 @@ Proof of Concept implementation (Non Segwit) demonstrating CoinVault Smart Vault
 
 **This software is for demonstration purposes only. All rights reserved.**
 
-# Setup
+# Setup:
 
 **Install Prerequisites:**
 
@@ -31,7 +31,9 @@ Note: Please make sure that all the above tools are available in your PATH
 
 ---------------------
 
-You can now run the **Shell Scripts** in this repo to simulate CoinVault setup and recovery. 
+# Usage:
+
+You can run the **Shell Scripts** in this repo to simulate CoinVault setup and recovery. 
 
 These scripts simulate a Depositor with two private keys (1 Hardware Wallet + 1 Hardware Token\*) and a Vault/Depository Provider with two private keys (1 Hardware Wallet + 1 Hardware Token\*) collaborating to secure the Depositor's Bitcoin using CoinVault protocol and the folloring 4 scripts demonstrate recovery in 4 most common scenarios using 4 of the 9 Options available for recovery in this flavor of CoinVault protocol. Many other flavors/configs are possible.
 
